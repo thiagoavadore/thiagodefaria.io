@@ -1,4 +1,4 @@
-baseURL = "http://defaria.io.s3-website-eu-west-1.amazonaws.com/"
+baseURL = "https://defaria.io"
 title = "thiago de faria, data at heart and cto"
 theme = "hugo-coder"
 languageCode = "en"
