@@ -18,6 +18,7 @@ pygmentscodefencesguesssyntax = true
     description = "Thiago de Faria's personal website"
     keywords = "devops, AI, ML, mlops, data"
     avatarurl = "images/avatar.jpg"
+    images = ["images/avatar.jpg"]
 
     dateformat = "January 2, 2006"
 
