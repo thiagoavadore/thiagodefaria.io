@@ -53,6 +53,10 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "speaking/"
 [[menu.main]]
-    name = "Contact me"
+    name = "Posts"
     weight = 2
+    url = "posts/"
+[[menu.main]]
+    name = "Contact me"
+    weight = 3
     url = "contact/"
