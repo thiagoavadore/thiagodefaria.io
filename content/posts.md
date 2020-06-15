@@ -5,6 +5,7 @@ slug = "posts"
 
 I've wrotten some articles/posts and have been interviewed in some platforms, magazines and social media websites. Here they are:
 
+* [Hugo website with SSL on S3 is straightforward, right? Errrrm....](https://itnext.io/hugo-website-with-ssl-on-s3-is-straightforward-right-errrrm-369c0f19ab07) on [ITNEXT.io](https://itnext.io) - Jun/2020
 * [Path to AWS Certified Machine Learning Specialty](https://www.linkedin.com/pulse/path-aws-certified-machine-learning-specialty-thiago-de-faria/) on LinkedIn - Jun/2020
 * [Highlights of AWS re:Invent 2019](https://medium.com/@thiagodefaria/highlights-aws-re-invent-2019-154d89ac5fb9) on Medium - Dec/2019
 * [We need to talk about the lifecycle of Machine Learning models](https://itnext.io/https-medium-com-thiagodefaria-we-need-to-talk-about-the-lifecycle-of-machine-learning-models-14538d2c72d9) on [ITNEXT.io](https://itnext.io) - Mar/2019
