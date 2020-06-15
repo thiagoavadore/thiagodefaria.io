@@ -1,4 +1,4 @@
-baseURL = "https://defaria.io/"
+baseURL = "https://vercel.defaria.io/"
 title = "cto ♥️ data | ml | devops"
 theme = "hugo-coder"
 languageCode = "en"
