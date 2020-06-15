@@ -25,9 +25,11 @@ I decided to take a "speaking-sabatycal" in 2020 to spend more time with the fam
     * Predictive Analytics World @Berlin
     * National DevOps Conference @London
     * Picnic Talks @Amsterdam
+    * AllDayDevOps @online
 * **Torching architecture ivory towers**
     * ABN Amro Meetup @Amsterdam
     * devopsdays @Amsterdam
+    * Codemotion @Berlin
 * **Panels**
     * Technical Leadership - Mediator - Codemotion @Amsterdam
     * Technical Leadership - Mediator - Codemotion @Berlin
@@ -56,7 +58,7 @@ Codemotion meetup @Amsterdam
     * Trigger Phrases in IT - Mediator - Codemotion @Amsterdam
     * Tech Leadership - Mediator - Codemotion @Berlin
 * **MC**
-ITNEXT Summit
+    * ITNEXT Summit
 
 ### 2017
 
@@ -78,7 +80,7 @@ ITNEXT Summit
     * Data Science @Amsterdam meetup
     * Enterprise Data & Analytics Conference Europe @London
 * **MC**
-ITNEXT Summit @Amsterdam
+    * ITNEXT Summit @Amsterdam
 
 ### 2016
 
