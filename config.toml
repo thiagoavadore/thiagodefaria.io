@@ -21,7 +21,7 @@ pygmentscodefencesguesssyntax = true
 
     dateformat = "January 2, 2006"
 
-    hideFooter = true
+    hideFooter = false
     hidecredits = false
     hidecopyright = false
     since = 2020
