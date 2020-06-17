@@ -3,6 +3,7 @@ title = "cto ♥️ data | ml | devops"
 theme = "hugo-coder"
 languageCode = "en"
 defaultcontentlanguage = "en"
+googleAnalytics = "UA-87705803-3"
 
 paginate = 20
 canonifyurls = true
