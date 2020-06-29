@@ -5,6 +5,7 @@ slug = "posts"
 
 I've wrotten some articles/posts and have been interviewed in some platforms, magazines and social media websites. Here they are:
 
+* [Your own AI-powered Call Center on AWS in less than 1 hour](https://itnext.io/your-own-ai-powered-call-center-on-aws-in-less-than-1-hour-d0494049977c) on [ITNEXT.io](https://itnext.io) - Jun/2020
 * [Five Highlights on the Spark 3.0.0 Release](https://itnext.io/five-highlights-on-the-spark-3-0-release-ab8775804e4b) on [ITNEXT.io](https://itnext.io) - Jun/2020
 * [Hugo website with SSL on S3 is straightforward, right? Errrrm....](https://itnext.io/hugo-website-with-ssl-on-s3-is-straightforward-right-errrrm-369c0f19ab07) on [ITNEXT.io](https://itnext.io) - Jun/2020
 * [Path to AWS Certified Machine Learning Specialty](https://www.linkedin.com/pulse/path-aws-certified-machine-learning-specialty-thiago-de-faria/) on LinkedIn - Jun/2020
